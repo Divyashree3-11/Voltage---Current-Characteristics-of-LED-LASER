@@ -59,23 +59,15 @@ Key points:
 
 ## TABULATION LED Characteristics
 
-<img width="672" height="485" alt="image" src="https://github.com/user-attachments/assets/0ee41138-7a51-4c3b-a05d-e6106014d393" />
-
 <img width="1200" height="1600" alt="Laser" src="https://github.com/user-attachments/assets/2c3bfdae-b491-4496-8090-f404c79241db" />
 
 ## TABULATION LASER Characteristics 
-
-<img width="1600" height="1423" alt="image" src="https://github.com/user-attachments/assets/c28ce007-e706-497a-b6b4-bda59b672533" />
 
 ---
 
 ## MODEL GRAPH
 *(Insert IV characteristics graph and optical power plots here)*
 
-<img width="994" height="1280" alt="image" src="https://github.com/user-attachments/assets/d8dcf96f-8b63-4fcb-981d-428a8a11deaa" />
-
-
-<img width="1007" height="1280" alt="image" src="https://github.com/user-attachments/assets/92308cfd-2554-45b7-9ac7-7b183d87d2cb" />
 
 ---
 
